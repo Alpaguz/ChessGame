@@ -7,6 +7,7 @@ namespace ChessGame
 {
 	public static class Helper
 	{
+        //Deneme
         #region General
         private static int WhiteScore = 0;
         private static int BlackScore = 0;
