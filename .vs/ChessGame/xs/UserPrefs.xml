@@ -1,0 +1,31 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{908C2DF6-06D6-42FB-A051-C862A7456CD4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessGame/Helper.cs">
+    <Files>
+      <File FileName="ChessGame/Classes/Pieces/Bishop.cs" />
+      <File FileName="ChessGame/Classes/Pieces/Queen.cs" />
+      <File FileName="ChessGame/Classes/Pieces/Rook.cs" />
+      <File FileName="ChessGame/Helper.cs" Line="74" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessGame" expanded="True">
+            <Node name="ChessGame" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Pieces" expanded="True" />
+              </Node>
+              <Node name="Helper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChessGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
